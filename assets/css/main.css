@@ -20,7 +20,7 @@ canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
 	margin: 0;
-	padding: 0;
+	padding: 0; 
 	border: 0;
 	font-size: 100%;
 	font: inherit;
@@ -1532,7 +1532,7 @@ button {
 		transition: opacity 0.325s ease-in-out, transform 0.325s ease-in-out;
 		padding: 4.5rem 2.5rem 1.5rem 2.5rem ;
 		position: relative;
-		width: 40rem;
+		width: 50rem;
 		max-width: 100%;
 		background-color: rgba(27, 31, 34, 0.85);
 		border-radius: 4px;
@@ -1585,6 +1585,10 @@ button {
 
 			#main article .close:active:before {
 				background-color: rgba(255, 255, 255, 0.175);
+			}
+
+			#main .notbold{
+				font-weight:normal
 			}
 
 	@media screen and (max-width: 736px) {
