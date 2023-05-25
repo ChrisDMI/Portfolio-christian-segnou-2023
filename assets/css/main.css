@@ -34,6 +34,9 @@ body {
 	line-height: 1;
 }
 
+
+
+
 ol, ul {
 	list-style: none;
 }
@@ -1310,6 +1313,7 @@ button {
 			padding: 3rem 2rem;
 			max-height: 40rem;
 			overflow: hidden;
+			margin-bottom: 50px;
 		}
 
 			#header .content .inner > :last-child {
@@ -1320,7 +1324,7 @@ button {
 			text-transform: uppercase;
 			letter-spacing: 0.2rem;
 			font-size: 0.8rem;
-			line-height: 2;
+			line-height: 1;
 		}
 
 	#header nav ul {
