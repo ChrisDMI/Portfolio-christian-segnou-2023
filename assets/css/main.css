@@ -1301,6 +1301,7 @@ button {
 		max-width: 100%;
 	}
 
+
 		#header .content .inner {
 			-moz-transition: max-height 0.75s ease, padding 0.75s ease, opacity 0.325s ease-in-out;
 			-webkit-transition: max-height 0.75s ease, padding 0.75s ease, opacity 0.325s ease-in-out;
@@ -1311,9 +1312,9 @@ button {
 			-ms-transition-delay: 0.25s;
 			transition-delay: 0.25s;
 			padding: 3rem 2rem;
-			max-height: 40rem;
+			max-height: 50rem;
 			overflow: hidden;
-			margin-bottom: 50px;
+			margin-bottom: 30px;
 		}
 
 			#header .content .inner > :last-child {
@@ -1459,7 +1460,7 @@ button {
 		}
 
 			#header .content .inner {
-				padding: 2.5rem 0;
+				padding: 5.5rem 0;
 			}
 
 			#header nav ul {
