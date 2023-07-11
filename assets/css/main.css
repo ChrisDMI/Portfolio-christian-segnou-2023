@@ -186,6 +186,14 @@ h1, h2, h3, h4, h5, h6 {
 	letter-spacing: 0.2rem;
 }
 
+#project1, #project2, #project3, #project4, #project5, #project6, #project7, #project8, #group_project1, #group_project2{
+	background-color: white;
+}
+
+#projects h3{
+	color: black;
+}
+
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 		color: inherit;
 		text-decoration: none;
